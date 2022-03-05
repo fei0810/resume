@@ -8,7 +8,7 @@
 
 **Newly graduated PhD with background in bioinformatics seeking for a research & development position to develop and employ computational tools to analyze biological data.**
 
-- 5-year experience of analyzing high throughput data, including data cleaning, functional annotation, normalization, analysis, interpretation, and visualization.
+- 6-year experience of analyzing high throughput data, including data cleaning, functional annotation, normalization, analysis, interpretation, and visualization.
 - Good management and communication skills exercised from organizing public outreach.
 
 ## EDUCATION
@@ -71,6 +71,7 @@ B.S. in Horticulture
 
 > \#, Co-first author;  *, Corresponding author
 
+- **Zhao, Fei**, Shilong Tian, Zijuan Li, Luhuan Ye, Yili Zhuang, Meiyue Wang, Yilin Xie, et al. (2022). Utility of Triti-Map for Bulk-Segregated Mapping of Causal Genes and Regulatory Elements in Triticeae. ***Plant Communications***, February, 100304. 10.1016/j.xplc.2022.100304.
 - Zhao, Hong#, Yue Zhang#, Hui Zhang#, Yanzhai Song#, **Fei Zhao**#, Yu’e Zhang#, Sihui Zhu#,  Hongkui Zhang, Zhendiao Zhou, Han Guo, Miaomiao Li, Junhui Li, Qiang Gao, Qianqian Han, Huaqiu Huang, Lucy Copsey, Qun Li, Hua Chen, Enrico Coen\*, Yijing Zhang\*, Yongbiao Xue\*. (2021). Origin, Loss and Regain of Self-Incompatibility in Angiosperms. ***The Plant Cell***, 10.1093/plcell/koab266.
 - Xiaojuan Ran, Tengfei Tang, Meiyue Wang, Luhuan Ye, Yili Zhuang, **Fei Zhao**\*, and Yijing Zhang\*. (2021). CSCS: A Chromatin State Interface for Chinese Spring Bread Wheat. ***ABIOTECH***, May. 10.1007/s42994-021-00048-z
 - Qiuhong Wu#, **Fei Zhao**#, Yongxing Chen, Panpan Zhang, Huaizhi Zhang, Guanghao Guo, Jingzhong Xie, Lingli Dong, Ping Lu, Miaomiao Li, Shengwei Ma, Tzion Fahima, Eviatar Nevo, Hongjie Li, Yijing Zhang\*, Zhiyong Liu\*. (2021). Bulked segregant CGT-Seq-facilitated map-based cloning of a powdery mildew resistance gene originating from wild emmer wheat (Triticum dicoccoides). **_Plant biotechnology journal_**, 10.1111/pbi.13609
@@ -84,5 +85,5 @@ B.S. in Horticulture
 - Meifang Qi#, Zijuan Li#, Chunmei Liu#, Wenyan Hu, Luhuan Ye, Yilin Xie, Yili Zhuang, **Fei Zhao**, Wan Teng, Qi Zheng, Zhenjun Fan, Lin Xu, Zhaobo Lang, Yiping Tong\*, and Yijing Zhang\*. (2018) CGT-seq: epigenome-guided de novo assembly of the core genome for divergent populations with large genome, **_Nucleic Acid Research_**, gky522.
 - Dongmei Yin#, Changmian Ji#, Xingli Ma#, Hang Li, Wanke Zhang, Song Li, Fuyan Liu, unkun Zhao, Fapeng Li, Ke Li, Longlong Ning, Jialin He, Yuejun Wang, **Fei Zhao**, Yilin Xie, Hongkun Zheng, Xingguo Zhang, Yijing Zhang, and Jinsong Zhang* (2018) Genome of an allotetraploid wild peanut Arachis monticola: a de novo assembly, **_GigaScience_**, 7(6)
 
-> Lasted updated on 2021-12-10
+> Lasted updated on 2022-3-5
 
